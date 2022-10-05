@@ -20,31 +20,31 @@ Step 8: In Webstorm, select file and add a new project. Then, select file → HT
 
 Step 9: Add when the Git dialog opens and commit changes.
 
-**Glossary**:
+Glossary:
 
-Branch: Lines of development are recorded on branches. There can be multiple
+**Branch**: Lines of development are recorded on branches. There can be multiple
 
-Clone: Cloning is copying a repository and making a new one that includes all the history   
+**Clone**: Cloning is copying a repository and making a new one that includes all the history   
 
-Commit: It saves the work that was revised in a file
+**Commit**: It saves the work that was revised in a file
 
-Fetch: Adds changes from remote repository but doesn't actually commit
+**Fetch**: Adds changes from remote repository but doesn't actually commit
 
-GIT: Used to keep track of changes. Has all the history
+**GIT**: Used to keep track of changes. Has all the history
 
-GitHub: Platform for users to collaborate and edit
+**GitHub**: Platform for users to collaborate and edit
 
-Merge: Puts line of development together
+**Merge**: Puts line of development together
 
-Merge Conflict: There is a difference with the branches merges
+**Merge Conflict**: There is a difference with the branches merged
 
-Push: 
+**Push**: Send changes that are commited to a remote repository from a local one
 
-Pull:
+**Pull**: Fetching and merging 
 
-Remote:
+**Remote**: Where source is initally stored at
 
-Repository:
+**Repository**: Somewhere other than the remote source
 
 
 References list:
